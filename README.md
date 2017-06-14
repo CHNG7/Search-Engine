@@ -1,5 +1,5 @@
-# IR_FinalProject
-- Please extract the files from the folder "IR-FinalProject"
+# Information Retrieval FinalProject
+- Please extract the files from the folder "Search-Engine"
 - Please install the following libraries so that the code doesn't throw error execute the following in terminal
 "pip install BeautifulSoup4"
 "pip install stemmer"
